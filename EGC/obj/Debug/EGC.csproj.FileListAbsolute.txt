@@ -1,0 +1,12 @@
+C:\Users\vasil\source\repos\EGC\EGC\bin\Debug\EGC.exe.config
+C:\Users\vasil\source\repos\EGC\EGC\bin\Debug\EGC.exe
+C:\Users\vasil\source\repos\EGC\EGC\bin\Debug\EGC.pdb
+C:\Users\vasil\source\repos\EGC\EGC\bin\Debug\OpenTK.dll
+C:\Users\vasil\source\repos\EGC\EGC\bin\Debug\OpenTK.pdb
+C:\Users\vasil\source\repos\EGC\EGC\bin\Debug\OpenTK.xml
+C:\Users\vasil\source\repos\EGC\EGC\obj\Debug\EGC.csproj.AssemblyReference.cache
+C:\Users\vasil\source\repos\EGC\EGC\obj\Debug\EGC.csproj.SuggestedBindingRedirects.cache
+C:\Users\vasil\source\repos\EGC\EGC\obj\Debug\EGC.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\EGC\EGC\obj\Debug\EGC.csproj.CopyComplete
+C:\Users\vasil\source\repos\EGC\EGC\obj\Debug\EGC.exe
+C:\Users\vasil\source\repos\EGC\EGC\obj\Debug\EGC.pdb
