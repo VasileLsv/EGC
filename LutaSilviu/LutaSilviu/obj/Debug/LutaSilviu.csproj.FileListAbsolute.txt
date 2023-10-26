@@ -1,0 +1,12 @@
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\bin\Debug\LutaSilviu.exe.config
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\bin\Debug\LutaSilviu.exe
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\bin\Debug\LutaSilviu.pdb
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\bin\Debug\OpenTK.dll
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\bin\Debug\OpenTK.pdb
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\bin\Debug\OpenTK.xml
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\obj\Debug\LutaSilviu.csproj.AssemblyReference.cache
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\obj\Debug\LutaSilviu.csproj.SuggestedBindingRedirects.cache
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\obj\Debug\LutaSilviu.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\obj\Debug\LutaSilviu.csproj.CopyComplete
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\obj\Debug\LutaSilviu.exe
+C:\Users\vasil\source\repos\EGC\LutaSilviu\LutaSilviu\obj\Debug\LutaSilviu.pdb
