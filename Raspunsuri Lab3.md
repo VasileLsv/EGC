@@ -1,15 +1,28 @@
-1 ViewPoint este pozitia unei camere virtuale intrun spatiu 3D\
-2 FPS se referă la numărul de cadre (imagini) afișate pe ecran într-o secundă de către o aplicație grafică  sau un joc care utilizează OpenGL pentru desenare\
-3 OnUpdateFrame() este rulata atunci cand se actualizeaza cadrele,pe parcursul ciclului de randare\
-4 Modul imediat de randare este o tehnica veche,ce se caracterizeaza prin  desenarea obiectelor grafice direct în cadrul buclei de randare \
-5 3.x.x\
-6 Metoda OnRenderFrame() este de obicei rulată în cadrul ciclului principal de randare. \
-7 Metoda OnResize() trebuie să fie executată cel puțin o dată la începutul execuției aplicației pentru a configura corect fereastra sau contextul grafic, dimensiunea de vizualizare \
-8 
-fieldOfView: Acest parametru reprezintă câmpul vizual (FOV).Domeniul de valori pentru FOV este de obicei între 0 și π .\
+1 Ordinea de desenare a vertexurilor este anti-orar
+2 Anti-aliasing este o tehnica de a reduce aliasing.\
+Ea îmbunătățește calitatea generală a imaginii afișate și face ca marginile și liniile să pară mai netede\
+3
+GL.LineWidth(float): seteaza latimea liniilor
+GL.PointSize(float): seteaza dimensiunea punctelor
+Ele functineaza intre un Gl.Begin si GL.End
 
-aspectRatio: Acest parametru reprezintă raportul de aspect (aspect ratio).Raportul de aspect este raportul dintre lățime și înălțime. Domeniul de valori  poate fi calculat ca lățimea ecranului / înălțimea ecranului.\
+4
+GL.LineLoop: 
+Efectul este un contur închis 
 
-zNear: Acest parametru reprezintă distanța la care se află "clipul apropiat" al frustrumului de vizualizare. Domeniul de valori pentru zNear trebuie să fie o valoare pozitivă.\
+GL.LineStrip:
+Efectul este o succesiune de segmente care sunt conectate într-un singur traseu continuu. 
 
-zFar: Acest parametru reprezintă distanța la care se află "clipul îndepărtat" al frustrumului de vizualizare.Domeniul de valori pentru zFar trebuie să fie o valoare pozitivă și mai mare decât zNear.\
+GL.TriangleFan:
+
+Efectul este un poligon în formă de evantai, cu vârful primului vârf ca centru
+ și fiecare pereche de vârfuri consecutive formând un triunghi cu centrul. 
+
+Efectul este un set de triunghiuri conectate, unde fiecare triunghi
+utilizează ultimele două vârfuri ale triunghiului anterior și adaugă un vârf nou. 
+
+7
+Un gradient de culoare reprezintă o tranziție lină între două sau mai multe culori.
+
+10
+Se va creea un gradient de culoare pe intreaga forma
