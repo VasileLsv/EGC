@@ -11,7 +11,7 @@ namespace Laborator3
     /// Clasa Randomizer se foloseste de clasa Random din .Net
     /// pentru a genera valori int si Color random
     /// </summary>
-    internal class Randomizer
+    public class Randomizer
     {
         Random ran;
         

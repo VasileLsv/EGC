@@ -1,0 +1,17 @@
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\Laborator4.exe.config
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\Laborator4.exe
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\Laborator4.pdb
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\OpenTK.dll
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\OpenTK.GLControl.dll
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\OpenTK.pdb
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\OpenTK.xml
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\OpenTK.GLControl.xml
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\obj\Debug\Laborator4.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\obj\Debug\Laborator4.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\obj\Debug\Laborator4.csproj.CopyComplete
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\obj\Debug\Laborator4.exe
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\obj\Debug\Laborator4.pdb
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\Laborator3.exe
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\Laborator3.pdb
+C:\Users\vasil\Desktop\LutaSilviuVasilica\LutaSilviu\Laborator4\bin\Debug\Laborator3.exe.config
