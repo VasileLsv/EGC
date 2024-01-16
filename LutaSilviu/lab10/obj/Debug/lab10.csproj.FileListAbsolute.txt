@@ -1,0 +1,11 @@
+C:\Users\vasil\Desktop\EGC\LutaSilviuVasilica\LutaSilviu\lab10\bin\Debug\lab10.exe.config
+C:\Users\vasil\Desktop\EGC\LutaSilviuVasilica\LutaSilviu\lab10\bin\Debug\lab10.exe
+C:\Users\vasil\Desktop\EGC\LutaSilviuVasilica\LutaSilviu\lab10\bin\Debug\lab10.pdb
+C:\Users\vasil\Desktop\EGC\LutaSilviuVasilica\LutaSilviu\lab10\bin\Debug\OpenTK.dll
+C:\Users\vasil\Desktop\EGC\LutaSilviuVasilica\LutaSilviu\lab10\bin\Debug\OpenTK.pdb
+C:\Users\vasil\Desktop\EGC\LutaSilviuVasilica\LutaSilviu\lab10\bin\Debug\OpenTK.xml
+C:\Users\vasil\Desktop\EGC\LutaSilviuVasilica\LutaSilviu\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Users\vasil\Desktop\EGC\LutaSilviuVasilica\LutaSilviu\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Desktop\EGC\LutaSilviuVasilica\LutaSilviu\lab10\obj\Debug\lab10.csproj.CopyComplete
+C:\Users\vasil\Desktop\EGC\LutaSilviuVasilica\LutaSilviu\lab10\obj\Debug\lab10.exe
+C:\Users\vasil\Desktop\EGC\LutaSilviuVasilica\LutaSilviu\lab10\obj\Debug\lab10.pdb
