@@ -1,0 +1,11 @@
+•	Care este rolul comenzilor GL.Push() și GL. Pop()? De ce este necesară utilizarea lor?
+Atunci când se apelează GL.Push(), starea curentă a matricelor este salvată într-o stivă, iar cu GL.Pop() se revine la starea salvată anterior. 
+Aceasta este o modalitate eficientă de a gestiona transformările și de a evita interferențele între acestea.
+•	Explicați efectul rulării metodelor GL.Rotate(), GL.Translate() și GL.Scale(). Furnizați câte un exemplu comentat!
+GL.Rotate(angle, x, y, z): Rotește obiectul curent în jurul axei specificate cu un anumit unghi.
+GL.Translate(x, y, z): Translează obiectul curent pe axele x, y și z. 
+GL.Scale(x, y, z): Scalarea obiectului curent pe axele x, y și z.
+
+•	Câte nivele de manipulări ierarhice (folosindu-se GL.Push()/GL.Pop()) suportă o scenă OpenGL?
+Nivele de manipulare ierarhică: Numărul de nivele de manipulare ierarhică (folosind GL.Push() și GL.Pop()) pe care o scenă OpenGL le suportă este minim 32.
+s
