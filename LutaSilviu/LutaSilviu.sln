@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laborator4", "Laborator4\La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab10", "lab10\lab10.csproj", "{09CDF3E7-B7AB-449B-8E1E-41737780AECE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimatieCub", "..\..\..\..\Downloads\OpenTK3_StandardTemplate_WinForms\OpenTK3_StandardTemplate_WinForms\AnimatieCub.csproj", "{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{09CDF3E7-B7AB-449B-8E1E-41737780AECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09CDF3E7-B7AB-449B-8E1E-41737780AECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09CDF3E7-B7AB-449B-8E1E-41737780AECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FEC1F3-A5EB-4C3E-8DAD-E92A1FFD5065}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

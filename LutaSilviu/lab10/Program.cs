@@ -92,7 +92,6 @@ namespace lab10
            
             GL.PopMatrix();
 
-
             GL.PushMatrix();
            
                 float x = 5 * (float)Math.Cos(angle1);
